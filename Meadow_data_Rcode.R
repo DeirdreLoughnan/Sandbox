@@ -6,3 +6,4 @@ head(mdw)
 
 nameht<-plot(Name~Height..M., data = mdw)
 namewt<- plot(Name~Stem.Width..mm., data=mdw)
+
