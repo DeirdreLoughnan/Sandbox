@@ -65,7 +65,13 @@ setwd("~/Documents/github/Sandbox") # Deirdre's working directory
 source("~/Documents/github/Sandbox/Meadow_data_Rcode.R")
 
 @
+
+<<echo=False, fig=True>>=
+head(mdw)
+@
+
 \begin{document}
+\SweaveOpts{concordance=TRUE}
 
 
 
