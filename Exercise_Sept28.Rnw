@@ -59,7 +59,12 @@ September 28, 2018
 
 The goals of today's exercise are to learn more about github, including making and closing issues, and Sweave, particularly how to source specific R files and to call specific figures.
 
+<<label=sourcestuff, echo=FALSE, fig=T>>=
 
+setwd("~/Documents/github/Sandbox") # Deirdre's working directory
+source("~/Documents/github/Sandbox/Meadow_data_Rcode.R")
+
+@
 \begin{document}
 
 
