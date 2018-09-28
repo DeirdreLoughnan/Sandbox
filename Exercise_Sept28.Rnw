@@ -53,7 +53,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
-\SweaveOpts{concordance=TRUE}
+
 
 September 28, 2018
 
@@ -64,6 +64,7 @@ The goals of today's exercise are to learn more about github, including making a
 setwd("~/Documents/github/Sandbox") # Deirdre's working directory
 source("~/Documents/github/Sandbox/Meadow_data_Rcode.R")
 
+htDSV
 @
 \begin{document}
 

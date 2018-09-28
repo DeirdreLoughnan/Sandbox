@@ -4,5 +4,5 @@ mdw<-read.csv("~/Documents/github/Sandbox/MeadowTraitsDSV.csv")
 
 head(mdw)
 
-plot(Height..M.~DSV, data=mdw)
-plot(Name~Height..M., data = mdw)
+htDSV<-plot(Height..M.~DSV, data=mdw)
+nameht<-plot(Name~Height..M., data = mdw)
