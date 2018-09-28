@@ -64,7 +64,6 @@ The goals of today's exercise are to learn more about github, including making a
 setwd("~/Documents/github/Sandbox") # Deirdre's working directory
 source("~/Documents/github/Sandbox/Meadow_data_Rcode.R")
 
-nameht
 @
 \begin{document}
 
