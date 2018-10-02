@@ -67,6 +67,7 @@ source("~/Documents/github/Sandbox/Meadow_data_Rcode.R")
 @
 
 <<echo=False, fig=True>>=
+<<echo=False>>=
 head(mdw)
 @
 
